@@ -10,5 +10,5 @@
                    (  \/              \  -----.
       Team8         \ |  __     __    |__      \
      +Team5          \|    \      \   |  \      \
-                       \___/______/___/__/     Shrom, Team 8's mascot cat
+                       \___/______/___/__/     Shrom, Team 5's mascot cat
 ```
